@@ -15,7 +15,7 @@ global.owner = [
   ['0'],
   [`${process.env.NOWNER}`, `${process.env.KohaneChanzz}`, true]
   // [number, Ya, Ya]
-] // Put your number here
+] // +62-816-4938-2725
 global.mods = [`${process.env.MODERATOR}`] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
